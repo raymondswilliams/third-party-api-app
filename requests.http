@@ -1,0 +1,15 @@
+
+@apikey = v5ivC2l5UMD8QLICABbrPorPVXe3E9GffgXuBnjd
+
+
+
+
+
+GET https://api.nal.usda.gov/fdc/v1/foods/search?query=apple&pageSize=2&api_key={{apikey}}
+
+###
+
+GET http://localhost:3000/health
+content-type: application/json
+
+
